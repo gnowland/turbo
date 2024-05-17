@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["output/a587c_tests_snapshot_basic-tree-shake_require-side-effect_input_b01061._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["output/a587c_tests_snapshot_basic-tree-shake_require-side-effect_input_cc94f5._.js", {
 
 "[project]/crates/turbopack-tests/tests/snapshot/basic-tree-shake/require-side-effect/input/lib.js [test] (ecmascript) <internal part 5>": (({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname }) => (() => {
 "use strict";
@@ -221,11 +221,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$crates$2f$turbopack$2d$tests
 ;
 
 })()),
-"[project]/crates/turbopack-tests/tests/snapshot/basic-tree-shake/require-side-effect/input/index.js [test] (ecmascript) <facade>": (function({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, m: module, e: exports, t: require }) { !function() {
+"[project]/crates/turbopack-tests/tests/snapshot/basic-tree-shake/require-side-effect/input/index.js [test] (ecmascript)": (function({ r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, g: global, __dirname, m: module, e: exports, t: require }) { !function() {
 
 const { cat } = __turbopack_require__("[project]/crates/turbopack-tests/tests/snapshot/basic-tree-shake/require-side-effect/input/lib.js [test] (ecmascript) <facade>");
 
 }.call(this) }),
 }]);
 
-//# sourceMappingURL=a587c_tests_snapshot_basic-tree-shake_require-side-effect_input_b01061._.js.map
+//# sourceMappingURL=a587c_tests_snapshot_basic-tree-shake_require-side-effect_input_cc94f5._.js.map
