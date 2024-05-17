@@ -37,6 +37,7 @@ function defineProp(obj, name1, options) {
             });
         }
     }
+    Object.seal(exports);
 }
 /**
  * Makes the module an ESM with exports
